@@ -1,0 +1,8 @@
+CompilerOracle: exclude jregex/Pretokenizer.next
+Listening for transport dt_socket at address: 8000
+10:34:35,645 INFO  ~ Starting E:\play-ms-service-demo-C
+10:34:36,698 WARN  ~ You're running Play! in DEV mode
+10:34:37,327 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+~ Server is up and running
+10:34:42,002 INFO  ~ Application 'play-ms-service-demo-C' is now started !
+Result{code=204, content=, isSuccess=true}
